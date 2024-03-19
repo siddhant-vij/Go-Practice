@@ -1,0 +1,1 @@
+This repository consists of the personal code samples, practice, assignments, and notes for Go - from the Udemy course.
